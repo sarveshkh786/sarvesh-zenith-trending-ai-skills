@@ -1,0 +1,15 @@
+# Zenith Anti-AI-Slop UI & Clean Architecture Rules
+
+Authored by **Sarvesh Zenith** (*Sarvesh Khandelwal / Dayal Infotech Services*).
+
+## UI/UX & Code Quality Guidelines
+- **Anti-AI-Slop Code Standard**: Avoid boilerplate-heavy, redundant, or overly repetitive generative AI code patterns. Keep component structures concise, idiomatic, and highly maintainable.
+- **Clean Architecture & Separation of Concerns**:
+  - Keep UI components visual and presentation-focused.
+  - Decouple business logic, state management, and API integrations into dedicated hooks/services.
+- **Performance & Design System Discipline**:
+  - Prefer modern CSS/Tailwind utilities over bloated inline styling.
+  - Implement strict error boundaries and accessible, responsive design patterns.
+
+---
+*Created and maintained under Zenith Engineering Standards by Sarvesh Zenith (Sarvesh Khandelwal / Dayal Infotech Services).*
